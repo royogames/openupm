@@ -1,0 +1,16 @@
+name: com.royogames.core
+displayName: Royo Games Core
+description: Royo Games Core Package
+repoUrl: https://github.com/Royo-Games/RoyoGames-Core
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: opensource
+image: ''
+topics:
+  - frameworks
+hunter: royogames
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: v0.0.1:README.md
+createdAt: 1739470952909
